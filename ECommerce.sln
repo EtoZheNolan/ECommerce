@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.UserService", "ECommerce.UserService\ECommerce.UserService.csproj", "{C523AD23-59EA-4A73-94EC-C1E848F412E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.ProductCatalogService", "ECommerce.ProductCatalogService\ECommerce.ProductCatalogService.csproj", "{3B976D30-B9EA-42D2-96E4-F6D66A44D511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C523AD23-59EA-4A73-94EC-C1E848F412E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C523AD23-59EA-4A73-94EC-C1E848F412E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C523AD23-59EA-4A73-94EC-C1E848F412E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C523AD23-59EA-4A73-94EC-C1E848F412E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B976D30-B9EA-42D2-96E4-F6D66A44D511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B976D30-B9EA-42D2-96E4-F6D66A44D511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B976D30-B9EA-42D2-96E4-F6D66A44D511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B976D30-B9EA-42D2-96E4-F6D66A44D511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
